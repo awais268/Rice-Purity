@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- ... (head section remains unchanged) ... -->
+</head>
+<body>
+    <h1>Rice Purity Test</h1>
+    <p>Visit our website: <a href="https://www.ricepuretest.com">www.ricepuretest.com</a></p>
+    <form id="quiz-form">
+        <!-- ... (questions and answer options) ... -->
+    </form>
+    <div id="result" class="hidden">
+        <p>Your Rice Purity Score is: <span id="score"></span></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
